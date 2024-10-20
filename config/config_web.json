@@ -91,7 +91,8 @@
         "to": "Centro de Dakar"
       },
       "priceFCFA": 32000,
-      "priceEUR": 49
+      "priceEUR": 49,
+      "priceUSD": 55
     },
     {
       "en": {
@@ -111,7 +112,8 @@
         "to": "Zona Saly*"
       },
       "priceFCFA": 27000,
-      "priceEUR": 41
+      "priceEUR": 41,
+      "priceUSD": 49
     },
     {
       "en": {
@@ -131,7 +133,8 @@
         "to": "Hotel Riu Baobab"
       },
       "priceFCFA": 32000,
-      "priceEUR": 49
+      "priceEUR": 49,
+      "priceUSD": 55
     },
     {
       "en": {
@@ -151,7 +154,8 @@
         "to": "Palmarin"
       },
       "priceFCFA": 58000,
-      "priceEUR": 89
+      "priceEUR": 89,
+      "priceUSD": 99
     },
     {
       "en": {
@@ -171,7 +175,8 @@
         "to": "Zona Sine Saloum**"
       },
       "priceFCFA": 35000,
-      "priceEUR": 53
+      "priceEUR": 53,
+      "priceUSD": 59
     },
     {
       "en": {
@@ -191,7 +196,8 @@
         "to": "Zona Sine Saloum**"
       },
       "priceFCFA": 17000,
-      "priceEUR": 26
+      "priceEUR": 26,
+      "priceUSD": 32
     },
     {
       "en": {
@@ -211,7 +217,8 @@
         "to": "Centro de Dakar"
       },
       "priceFCFA": 45000,
-      "priceEUR": 69
+      "priceEUR": 69,
+      "priceUSD": 75
     },
     {
       "en": {
@@ -231,7 +238,8 @@
         "to": "Zona Sine Saloum**"
       },
       "priceFCFA": 55000,
-      "priceEUR": 84
+      "priceEUR": 84,
+      "priceUSD": 89
     }
   ]
 }
