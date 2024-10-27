@@ -90,9 +90,9 @@
         "from": "Aeroporto de Dakar AIBD DSS",
         "to": "Centro de Dakar"
       },
-      "priceFCFA": 32000,
-      "priceEUR": 49,
-      "priceUSD": 55
+      "priceFCFA": 35000,
+      "priceEUR": 54,
+      "priceUSD": 58
     },
     {
       "en": {
@@ -111,9 +111,9 @@
         "from": "Aeroporto de Dakar AIBD DSS",
         "to": "Zona Saly*"
       },
-      "priceFCFA": 27000,
-      "priceEUR": 41,
-      "priceUSD": 49
+      "priceFCFA": 30000,
+      "priceEUR": 46,
+      "priceUSD": 50
     },
     {
       "en": {
@@ -132,9 +132,9 @@
         "from": "Aeroporto de Dakar AIBD DSS",
         "to": "Hotel Riu Baobab"
       },
-      "priceFCFA": 32000,
-      "priceEUR": 49,
-      "priceUSD": 55
+      "priceFCFA": 35000,
+      "priceEUR": 54,
+      "priceUSD": 58
     },
     {
       "en": {
@@ -153,9 +153,9 @@
         "from": "Aeroporto de Dakar AIBD DSS",
         "to": "Palmarin"
       },
-      "priceFCFA": 58000,
-      "priceEUR": 89,
-      "priceUSD": 99
+      "priceFCFA": 65000,
+      "priceEUR": 99,
+      "priceUSD": 107
     },
     {
       "en": {
@@ -174,9 +174,9 @@
         "from": "Aeroporto de Dakar AIBD DSS",
         "to": "Zona Sine Saloum**"
       },
-      "priceFCFA": 35000,
-      "priceEUR": 53,
-      "priceUSD": 59
+      "priceFCFA": 40000,
+      "priceEUR": 61,
+      "priceUSD": 66
     },
     {
       "en": {
@@ -216,30 +216,30 @@
         "from": "Zona Saly*",
         "to": "Centro de Dakar"
       },
-      "priceFCFA": 45000,
-      "priceEUR": 69,
-      "priceUSD": 75
+      "priceFCFA": 55000,
+      "priceEUR": 84,
+      "priceUSD": 91
     },
     {
       "en": {
         "from": "Dakar center",
-        "to": "Sine Saloum Area**"
+        "to": "Hotel Riu Baobab"
       },
       "fr": {
         "from": "Dakar centre",
-        "to": "Zone Sine Saloum**"
+        "to": "Hotel Riu Baobab"
       },
       "es": {
         "from": "Centro de Dakar",
-        "to": "Zona Sine Saloum**"
+        "to": "Hotel Riu Baobab"
       },
       "br": {
         "from": "Centro de Dakar",
-        "to": "Zona Sine Saloum**"
+        "to": "Hotel Riu Baobab"
       },
-      "priceFCFA": 55000,
-      "priceEUR": 84,
-      "priceUSD": 89
+      "priceFCFA": 65000,
+      "priceEUR": 99,
+      "priceUSD": 107
     }
   ]
 }
